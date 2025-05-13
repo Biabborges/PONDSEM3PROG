@@ -1,7 +1,5 @@
 # PONDSEM3PROG
 
-## Relatorio-husky.md
-
 ## Objetivo
 
 O objetivo desta atividade foi configurar o Husky em um repositório GitHub para garantir:
@@ -59,7 +57,7 @@ npm run test
 
 ### Execução do Pré-commit
 
-> 🖼️ **INSIRA AQUI UM PRINT** mostrando o terminal executando `npm run lint && npm run build` automaticamente após `git commit`.
+![Npm run lint sendo executado](/images/Commit.png)
 
 
 ### Execução do Pré-push
